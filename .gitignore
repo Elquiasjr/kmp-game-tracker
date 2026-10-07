@@ -1,0 +1,14 @@
+# Gradle / Kotlin
+.gradle/
+build/
+.kotlin/
+# IDE
+.idea/
+*.iml
+.DS_Store
+# Segredos: a chave da API RAWG fica aqui e NUNCA vai para o Git
+local.properties
+# Xcode
+iosApp/**/xcuserdata/
+iosApp/build/
+*.xcworkspace/xcuserdata/

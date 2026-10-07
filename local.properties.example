@@ -1,0 +1,5 @@
+# Copie este arquivo para local.properties e preencha a sua chave.
+# Obtenha a chave gratuita em https://rawg.io/apidocs
+RAWG_API_KEY=coloque_sua_chave_aqui
+# O Android Studio adiciona o caminho do SDK automaticamente, por exemplo:
+# sdk.dir=/Users/voce/Library/Android/sdk
