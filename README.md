@@ -40,7 +40,7 @@ App de demonstração de **Kotlin Multiplatform** e **Compose Multiplatform**: u
 ## Instalação e configuração
 
 ```bash
-git clone https://github.com/[usuario]/kmp-game-tracker.git
+git clone https://github.com/Elquiasjr/kmp-game-tracker.git
 cd kmp-game-tracker
 cp local.properties.example local.properties   # no Windows: copy local.properties.example local.properties
 ```
